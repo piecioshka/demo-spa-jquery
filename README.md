@@ -1,10 +1,10 @@
-# test-spa
+# demo-spa-jquery
 
 > :ledger: Testowa aplikacja SPA na potrzeby dydaktyczne.
 
 ## Jak to działa?
 
-Demo dostępne tutaj: http://piecioshka.github.io/test-spa/
+Demo dostępne tutaj: https://piecioshka.github.io/demo-spa-jquery/
 
 ## Wykorzystanie
 

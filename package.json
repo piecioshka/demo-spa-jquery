@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "test-spa",
+    "name": "demo-spa-jquery",
     "license": "MIT",
     "scripts": {
         "deploy": "node tasks/deploy.js"
